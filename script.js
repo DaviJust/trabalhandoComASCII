@@ -1,11 +1,10 @@
-//Meu codigo
-// const button = document.getElementById("button")
-// const input = document.getElementById("input").value;
-// button.onclick = function() {
-//     var input2 = document.getElementById("input").value;
-//     var texto = input2.charCodeAt()
-//     document.getElementById("demo").innerHTML = texto;
-// }
+
+const button = document.getElementById("button")
+const input = document.getElementById("input").value;
+button.onclick = function() {
+    var texto = input2.charCodeAt().value
+    input.innerHTML = texto;
+}
 
 // Codigo no stackoverflow https://stackoverflow.com/questions/94037/convert-character-to-ascii-code-in-javascript
 // function myFunction(){
