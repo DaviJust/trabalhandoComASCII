@@ -11,7 +11,3 @@ tabela ASCII.
 ⇨ ter um botão de submit que responde a um evento de click (sem atualizar a página);
 ⇨ mostrar na tela (via inserção de elemento do DOM) o código decimal do caractere.
 ⇨ exemplo: input -> “O”, output na tela -> “O = 79”
-<h1>Extra:</h1>
-⇨ ao invés de receber apenas um caractere, receber uma palavra e mostrar na tela o código de cada uma
-das letras.
-⇨ exemplo: input -> “Oi”, output na tela -> “O = 79, i = 105”
