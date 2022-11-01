@@ -11,3 +11,7 @@ tabela ASCII.
 ⇨ ter um botão de submit que responde a um evento de click (sem atualizar a página);
 ⇨ mostrar na tela (via inserção de elemento do DOM) o código decimal do caractere.
 ⇨ exemplo: input -> “O”, output na tela -> “O = 79”
+
+#StackFlow
+Tambem perguntei no stackflow, pelo vista eu tinha era que revisar alguns conceitos 😅
+link do post: https://stackoverflow.com/questions/74275378/ascii-translator-on-input/74282790#74282790
