@@ -10,7 +10,7 @@
 const button = document.getElementById("button")
 button.onclick = function() {
     alert("ASCII")
-    var str = document.getElementById("input");
+    let str = document.getElementById("input");
     if (str.value=="") {
        str.focus();
        return;
